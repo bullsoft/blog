@@ -70,5 +70,5 @@ theme: icar
 deploy:
   type: git
   repo: git@github.com:bullsoft/blog.git
-  #branch: gh-pages 
+  branch: master 
   
