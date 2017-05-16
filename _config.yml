@@ -70,4 +70,5 @@ theme: icarus
 deploy:
   type: git
   repo: git@github.com:bullsoft/blog.git
+  branch: gh-pages
   
